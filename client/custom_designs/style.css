@@ -124,3 +124,21 @@
 .text-left{
     text-align: left !important;
 }
+
+.detail-panel{
+    -webkit-box-shadow: 5px 4px 23px -6px rgba(143,139,143,0.99);
+    -moz-box-shadow: 5px 4px 23px -6px rgba(143,139,143,0.99);
+    box-shadow: 5px 4px 23px -6px rgba(143,139,143,0.99);
+    padding: 5px;
+    width: 100%;
+
+}
+.detail-panel-inner{
+    background-color: #F9F5ED;
+    padding: 20px 50px;
+}
+
+.detail{
+    display: block;
+    width: 100%;
+}
